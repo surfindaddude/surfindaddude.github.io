@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Veganescence Vegan Chandlers - Ecwid store",
-    "currentPage": "Blog.html",
+    "currentPage": "inde.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2624,7 +2624,7 @@
         }
       ]
     },
-    "Blog.html": {
+    "inde.html": {
       "settings": {
         "meta_descr": "The Veganescence blog landing page",
         "title": "Blog",
