@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Veganescence Vegan Chandlers - Ecwid store",
-    "currentPage": "page5.html",
+    "currentPage": "Blog.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2624,11 +2624,13 @@
         }
       ]
     },
-    "page5.html": {
+    "Blog.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "The Veganescence blog landing page",
         "title": "Blog",
-        "order": 1
+        "order": 1,
+        "header_custom": "",
+        "html_before": ""
       },
       "components": [
         {
